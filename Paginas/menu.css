@@ -117,8 +117,8 @@ nav.navbar {
   font-size: 70px;
   margin-bottom: 2rem;
   background: linear-gradient(to top, #260b52, #1f0133);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 
 }
 
