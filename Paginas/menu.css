@@ -105,10 +105,10 @@ nav.navbar {
 
 
 .habilidades {
-  background-color: white;
+  background-color: rgb(86, 22, 146);
   padding: 4rem 2rem;
   text-align: center;
-  color: #f1f1f1;
+  color: #ffffff;
   padding-bottom: 200px;
   
 }
@@ -116,7 +116,7 @@ nav.navbar {
 .habilidades h2 {
   font-size: 70px;
   margin-bottom: 2rem;
-  background: linear-gradient(to top, #260b52, #1f0133);
+  background: linear-gradient(to top, #f1f1f1, #ffffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
@@ -131,7 +131,7 @@ nav.navbar {
 }
 
 .habilidade {
-  background: linear-gradient(to top, #000000, #222222);
+  background: linear-gradient(to top, #000000, #1d1d1d);
   border-radius: 15px;
   padding: 1.5rem;
   margin-top: 50px;
